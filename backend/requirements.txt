@@ -1,0 +1,25 @@
+# Requisitos para la aplicación Biospace Backend
+
+# Framework principal
+Flask==2.3.0
+
+# Conector de base de datos
+SQLAlchemy==1.4.27
+
+# Herramientas para manejo de JSON y API
+requests==2.28.1
+
+# Machine Learning y procesamiento de datos
+numpy
+pandas
+scikit-learn
+
+# Procesamiento de Lenguaje Natural
+nltk==3.6.7
+
+# Visualizaciones
+matplotlib==3.9.2
+
+# Utilidades adicionales
+python-dotenv==0.19.2
+loguru==0.5.3

@@ -1,0 +1,4 @@
+# Directorio processed/ (Datos Procesados)
+# Este directorio contendrá todos los datos que han sido procesados y están listos para ser analizados y visualizados.
+
+# Nota: Este es un directorio vacío. Los archivos de datos procesados se almacenarán aquí una vez que el procesamiento haya sido realizado por los scripts en models/.

@@ -1,0 +1,6 @@
+# Carpeta: raw/
+# Descripción: Este directorio contiene los datos crudos o sin procesar que se reciben de diversas fuentes, listos para ser trabajados por los procesos de ingestión y procesamiento de datos.
+
+# Ejemplo de archivo crudo:
+# raw_data_1.csv
+# Este archivo contiene datos crudos sin procesar de un experimento determinado.
